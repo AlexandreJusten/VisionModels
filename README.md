@@ -48,19 +48,16 @@ console.log(prediction);
 
 ## Lista de modelos disponíveis
 
-(Preencha conforme for publicando)
+``` code
 
-  -------------------------------------------------------------------------
-  Modelo          Descrição                          Link
-  --------------- ---------------------------------- ----------------------
-  license_plate   Detector / classificador de placas ➜ models/license_plate
+| Modelo        | Descrição                          | Link                   |
+| ------------- | ---------------------------------- | ---------------------- |
+| license_plate | Detector / classificador de placas | ➜ models/license_plate |
+| car           | Classificador de veículos          | ➜ models/car           |
+| home          | Classificador de ambientes         | ➜ models/home          |
+| ...           | ...                                | ...                    |
 
-  car             Classificador de veículos          ➜ models/car
-
-  home            Classificador de ambientes         ➜ models/home
-
-  ...             ...                                ...
-  -------------------------------------------------------------------------
+```
 
 ## Por que isso existe?
 
