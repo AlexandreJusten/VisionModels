@@ -1,6 +1,6 @@
 # VisionModels
 
-![Logo](assets/logo.png)
+![Logo](assets/img)
 
 
 repositório público contendo vários modelos já treinados, convertidos
