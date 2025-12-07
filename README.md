@@ -83,6 +83,8 @@ Ideal para:
 -   Automação\
 -   Projetos low-code / no-code
 
+![Logo](68981492-6c15-4b87-858c-d18a4d12db3a.jpeg)
+
 ##  Atualizações
 
 Novos modelos serão adicionados conforme forem treinados.
