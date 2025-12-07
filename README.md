@@ -1,4 +1,4 @@
-# VisionModels
+# VisionModels  {Disponível dia 10/12/2025}
 
 ![Logo](logo.png)
 
