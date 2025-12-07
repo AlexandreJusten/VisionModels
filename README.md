@@ -37,7 +37,7 @@ Carregue diretamente no navegador ou no React Native WebView:
 
 ``` js
 const model = await tf.loadGraphModel(
-  "https://raw.githubusercontent.com/SEU_USER/SEU_REPO/main/models/license_plate/model.json"
+  "https://raw.githubusercontent.com/AlexandreJusten/VisionModels/main/models/license_plate/model.json"
 );
 ```
 
